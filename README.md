@@ -1,1 +1,1 @@
-# JAVASCRIPTobjects-Book2Chp2---Exercise-Practice
+# JAVASCRIPTobjects-Book2Chp2Exercise-Practice
